@@ -35,7 +35,7 @@ a:hover {
 }
 
 .gallery {
-  background: var(--accent-gold);
+  background: var(--bg-color);
   border-radius: 16px;
   padding: 24px 0;
   box-shadow: 0 2px 8px rgba(60, 125, 70, 0.08);
