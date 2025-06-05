@@ -1,38 +1,41 @@
 /* Color Palette */
 :root {
-  --background: #F9F5EF;
-  --primary: #3C7D46;
-  --secondary: #0077B6;
-  --accent1: #A02020;
-  --accent2: #C49A6C;
+  --bg-color: #F9F5EF;
+  --primary-color: #3C7D46;       /* Kerala Green */
+  --secondary-color: #0077B6;     /* Ocean Blue */
+  --accent-red: #A02020;          /* Kathakali Red */
+  --accent-gold: #C49A6C;         /* Temple Gold */
   --text-primary: #2C2C2C;
   --text-secondary: #5C4033;
-  --footer: #3E2F1C;
+  --footer-bg: #3E2F1C;
+
+  --font-header: 'Playfair Display', serif;
+  --font-body: 'Segoe UI', sans-serif;
 }
 
 body {
-  background: var(--background);
+  background: var(--bg-color);
   color: var(--text-primary);
-  font-family: 'Segoe UI', Arial, sans-serif;
+  font-family: var(--font-body);
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3 {
-  color: var(--primary);
+  color: var(--primary-color);
 }
 
 a {
-  color: var(--secondary);
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--accent1);
+  color: var(--accent-red);
 }
 
 .gallery {
-  background: var(--accent2);
+  background: var(--accent-gold);
   border-radius: 16px;
   padding: 24px 0;
   box-shadow: 0 2px 8px rgba(60, 125, 70, 0.08);
@@ -54,7 +57,7 @@ figure {
 }
 
 figcaption {
-  color: var(--primary);
+  color: var(--primary-color);
   font-weight: 600;
   margin-top: 8px;
 }
@@ -64,17 +67,17 @@ figcaption {
   height: 100px;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid var(--primary);
-  background: var(--background);
+  border: 3px solid var(--primary-color);
+  background: var(--bg-color);
   transition: border 0.3s, box-shadow 0.3s;
 }
 
 .img1:hover {
   transform: scale(1.2);
   transition: transform 0.3s ease;
-  box-shadow: 0 4px 16px var(--accent1), 0 4px 8px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 16px var(--accent-red), 0 4px 8px rgba(0, 0, 0, 0.12);
   cursor: pointer;
-  border: 3px solid var(--accent1);
+  border: 3px solid var(--accent-red);
   background-color: rgba(160, 32, 32, 0.08);
   filter: brightness(1.1);
 }
@@ -87,7 +90,7 @@ figcaption {
   width: 100px;
   height: 100px;
   margin: 20px;
-  background: var(--accent2);
+  background: var(--accent-gold);
   box-shadow: 0 2px 6px rgba(60, 125, 70, 0.10);
 }
 
@@ -106,7 +109,7 @@ figcaption {
 }
 
 footer {
-  background: var(--footer);
+  background: var(--footer-bg);
   color: #fff;
   text-align: center;
   padding: 16px 0;
