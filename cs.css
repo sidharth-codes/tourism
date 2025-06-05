@@ -1,52 +1,125 @@
-.img1 {
-  width: 100px;      
-  height: 100px;     
-  object-fit: cover; 
-  border-radius: 50%; 
+/* Kerala Color Palette */
+:root {
+  --bg-color: #ffffff;
+  --heading-green: #14532d;
+  --text-primary: #333333;
+  --text-secondary: #555555;
+  --district-icon-bg: #2f855a;
+  --district-icon-text: #ffffff;
+  --card-bg: #f0f4f8;
+  --accent-red: #A02020;
+  --secondary-color: #0077B6;
+  --font-header: 'Playfair Display', serif;
+  --font-body: 'Segoe UI', sans-serif;
 }
-.img1:hover {
-  transform: scale(1.2); 
-  transition: transform 0.3s ease; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-  cursor: pointer; 
-  border: 2px solid #fff; 
-  background-color: rgba(0, 0, 0, 0.1);
-  filter: brightness(1.1);
+
+body {
+  background: var(--bg-color);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
 }
-figure{
-  margin: 0; 
-  padding: 0; 
-  display: inline-block; 
-  position: relative; 
-  text-align: center; 
+
+h1 {
+  color: var(--heading-green);
+  font-family: var(--font-header);
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 12px;
 }
+
+p {
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-red);
+}
+
 .gallery {
+  background: var(--bg-color);
+  border-radius: 16px;
+  padding: 24px 0;
+  box-shadow: 0 2px 8px rgba(44, 44, 44, 0.06);
   display: flex;
   flex-wrap: wrap;
-  gap: 20px
- 
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 32px;
 }
+
+figure {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(44, 44, 44, 0.06);
+  margin: 0;
+  padding: 12px 8px 8px 8px;
+  display: inline-block;
+  text-align: center;
+  color: var(--text-secondary);
+  min-width: 160px;
+  max-width: 220px;
+}
+
+figcaption {
+  color: var(--heading-green);
+  font-weight: 600;
+  margin-top: 8px;
+  font-size: 1.05rem;
+}
+
+.img1 {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 12px; /* Rounded corners for rectangle */
+  background: var(--district-icon-bg);
+  color: var(--district-icon-text);
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.img1:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 16px var(--heading-green), 0 4px 8px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  background-color: rgba(160, 32, 32, 0.08);
+  filter: brightness(1.1);
+}
+
 .img-link-wrapper {
   display: inline-block;
   position: relative;
   overflow: hidden;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  margin: 20px;
+  border-radius: 12px; /* Match image corners */
+  width: 120px;
+  height: 80px;
+  margin: 20px auto 0 auto;
+  background: #f9f9f9; /* Almost same as bg, but slightly visible */
+  box-shadow: 0 2px 6px rgba(44, 44, 44, 0.10);
 }
 
 .img-link-wrapper img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 12px;
   transition: transform 0.4s ease, opacity 0.4s ease;
   cursor: pointer;
 }
 
-.img-link-wrapper.clicked img {
-  transform: scale(0.8);
-  opacity: 0.3;
+.img-link-wrapper:hover {
+  box-shadow: 0 6px 24px var(--heading-green), 0 4px 8px rgba(0,0,0,0.15);
+  background: var(--district-icon-bg);
+  transition: box-shadow 0.3s, background 0.3s;
 }
 
