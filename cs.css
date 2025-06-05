@@ -4,9 +4,9 @@
   --heading-green: #14532d;
   --text-primary: #333333;
   --text-secondary: #555555;
-  --district-icon-bg: #ffffff;
-  --district-icon-text: #333333;
-  --card-bg: #ffffff;
+  --district-icon-bg: #2f855a;
+  --district-icon-text: #ffffff;
+  --card-bg: #f0f4f8;
   --accent-red: #A02020;
   --secondary-color: #0077B6;
   --font-header: 'Playfair Display', serif;
@@ -14,7 +14,7 @@
 }
 
 body {
-  background: #ffffff;
+  background: var(--bg-color);
   color: var(--text-primary);
   font-family: var(--font-body);
   margin: 0;
@@ -46,7 +46,7 @@ a:hover {
 }
 
 .gallery {
-  background: #ffffff;
+  background: var(--bg-color);
   border-radius: 16px;
   padding: 24px 0;
   box-shadow: 0 2px 8px rgba(44, 44, 44, 0.06);
@@ -58,7 +58,7 @@ a:hover {
 }
 
 figure {
-  background: #ffffff;
+  background: var(--card-bg);
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(44, 44, 44, 0.06);
   margin: 0;
@@ -78,11 +78,11 @@ figcaption {
 }
 
 .img1 {
-  width: 180px;
-  height: 120px;
+  width: 120px;
+  height: 80px;
   object-fit: cover;
-  border-radius: 12px;
-  background: #ffffff;
+  border-radius: 12px; /* Rounded corners for rectangle */
+  background: var(--district-icon-bg);
   color: var(--district-icon-text);
   transition: border 0.3s, box-shadow 0.3s;
 }
@@ -90,9 +90,9 @@ figcaption {
 .img1:hover {
   transform: scale(1.2);
   transition: transform 0.3s ease;
-  box-shadow: 0 4px 16px var(--accent-red), 0 4px 8px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 16px var(--heading-green), 0 4px 8px rgba(0, 0, 0, 0.12);
   cursor: pointer;
-  background-color: #ffffff;
+  background-color: rgba(160, 32, 32, 0.08);
   filter: brightness(1.1);
 }
 
@@ -100,11 +100,11 @@ figcaption {
   display: inline-block;
   position: relative;
   overflow: hidden;
-  border-radius: 12px;
-  width: 180px;
-  height: 120px;
+  border-radius: 12px; /* Match image corners */
+  width: 120px;
+  height: 80px;
   margin: 20px auto 0 auto;
-  background: #ffffff;
+  background: #f9f9f9; /* Almost same as bg, but slightly visible */
   box-shadow: 0 2px 6px rgba(44, 44, 44, 0.10);
 }
 
@@ -119,7 +119,7 @@ figcaption {
 
 .img-link-wrapper:hover {
   box-shadow: 0 6px 24px var(--heading-green), 0 4px 8px rgba(0,0,0,0.15);
-  background: #ffffff;
+  background: var(--district-icon-bg);
   transition: box-shadow 0.3s, background 0.3s;
 }
 
