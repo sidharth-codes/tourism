@@ -190,3 +190,19 @@ figcaption {
   margin-bottom: 18px;
 }
 
+.info {
+    background: rgba(255, 255, 255, 0.92);
+    margin: 40px auto 0 auto;
+    padding: 32px 24px;
+    max-width: 1400px;
+    border-radius: 18px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+}
+
+
+
+
+
+
