@@ -73,14 +73,14 @@ const districts = [
     name: "Alappuzha",
     tagline: "Venice of the East",
     aboutParagraphs: [
-      "Alappuzha is known for its picturesque backwaters and houseboats...",
-      "The Nehru Trophy Boat Race is a major event celebrated with great enthusiasm...",
-      "Alappuzha's coir industry and scenic beaches make it a popular destination."
+      "Alappuzha, popularly known as Alleppey, is a scenic district located along the southwestern coast of Kerala, bordered by the Arabian Sea on the west and the vast Vembanad Lake on the east. It is often referred to as the “Venice of the East” because of its unique and intricate network of canals, lagoons, rivers, and backwaters, which crisscross the region and support a distinctive lifestyle centered on water. The town of Alappuzha serves as the district headquarters and is a major center for tourism, marine activities, and coir industries.",
+      "What truly sets Alappuzha apart is its breathtaking backwater ecosystem, which attracts tourists from all over the world for houseboat cruises, ayurvedic retreats, and nature experiences. The Vembanad Lake, India’s longest lake, and the Punnamada Lake, where the famous Nehru Trophy Boat Race is held, make Alappuzha a focal point for inland water tourism. Another remarkable feature is the Kuttanad region, often called the “Rice Bowl of Kerala,” where agriculture is practiced below sea level, a rare phenomenon in the world.",
+      "Economically, Alappuzha is known for its thriving coir industry, which employs thousands and exports mats, ropes, and other products made from coconut fiber. The district also has strong agricultural roots, especially in rice, coconut, bananas, and fish farming. With a long coastline, Alappuzha supports a large fishing community and numerous fishing harbors.Well-connected by road, rail, and water, Alappuzha offers a blend of natural beauty, rural charm, and cultural richness, making it a must-visit destination for those seeking an authentic Kerala experience."
     ],
     cultureParagraphs: [
-      "Famous for the Nehru Trophy Boat Race and vibrant Onam celebrations.",
-      "Alappuzha has a rich tradition of coir weaving and handicrafts.",
-      "The district's culture is also marked by its unique cuisine and folk arts."
+      "The culture of Alappuzha is a vibrant reflection of its historical legacy, religious harmony, and close relationship with water and land. This district has long been a melting pot of Hindu, Christian, and Muslim traditions, and it hosts a wide variety of festivals, rituals, folk arts, and community events throughout the year. The people of Alappuzha are known for their hospitality, simplicity, and strong sense of cultural identity. Religious coexistence is evident in the peaceful presence of temples, mosques, and churches such as the Ambalappuzha Sri Krishna Temple, Arthunkal Basilica, and Mullakkal Mosque, which serve as active centers of faith and celebration.",
+      "One of the most iconic cultural events in Alappuzha is the Nehru Trophy Boat Race, held annually on the second Saturday of August in the backwaters of Punnamada Lake. Featuring the grand Chundan Vallams rowed by hundreds of oarsmen to the rhythm of Vanchipattu, the event blends sport with ritual. Other boat races and Onam festivities — including Pookalam, Onasadya, Thiruvathirakali, and Pulikali — reflect the region’s deep-rooted festive spirit. Classical and folk arts such as Kathakali, Mohiniyattam, Ottan Thullal, and Velakali are actively performed during temple festivals and cultural programs. The district also carries a strong legacy of coir craftsmanship, where skilled artisans, especially women, continue traditional weaving practices that contribute to the local economy and heritage.",
+      "Christianity holds a significant place in Alappuzha’s cultural fabric, with the Arthunkal Basilica drawing lakhs of pilgrims each year during its feast. Alongside Hindu temples and Islamic mosques, it represents the inclusive and secular spirit of the district. Alappuzha is also notable for its role in literature, politics, and social reform. It was among the first regions in Kerala to adopt communist ideologies and has a lasting legacy in labor rights, education, and progressive movements. The district has produced several revolutionary leaders, writers, and poets who shaped Kerala’s intellectual and cultural direction. Blending the serenity of its backwaters with the energy of festivals and reform, Alappuzha remains one of the most culturally dynamic and inspiring districts of Kerala."
     ],
     places: [
       { name: "Alappuzha Backwaters", image: "images/alappuzha.jpg", desc: "Famous for houseboat cruises and scenic beauty." },
@@ -96,14 +96,14 @@ const districts = [
     name: "Kottayam",
     tagline: "Land of Letters, Lakes, and Latex",
     aboutParagraphs: [
-      "Kottayam is a hub of education, rubber plantations, and scenic lakes...",
-      "The district is known for its literary heritage and vibrant festivals...",
-      "Vembanad Lake and Kumarakom Bird Sanctuary are major attractions."
+      "Kottayam, often called the “Land of Letters, Latex, and Lakes,” is a beautiful and historically significant district in Kerala, nestled between the Western Ghats and the Vembanad Lake. It holds the proud distinction of being the first district in India to achieve 100% literacy, underscoring its deep-rooted emphasis on education and intellectual progress. The district is home to renowned institutions such as CMS College, one of India’s oldest, and Mahatma Gandhi University. Its seminaries and publishing houses have contributed significantly to Kerala’s literary, religious, and journalistic traditions, earning it the nickname “Akshara Nagari” or City of Letters.",
+      "The geography of Kottayam blends lush hills, expansive rubber plantations, tranquil backwaters, and bustling town centers. The district plays a leading role in Kerala’s rubber industry, with plantations forming a core part of its economy. In addition, Kottayam is a major hub for printing and publishing, continuing its literary legacy in modern forms. The Meenachil, Manimala, and Pamba rivers flow through its fertile lands, supporting agriculture and rural livelihoods, while also contributing to the district’s scenic charm.",
+      "Kottayam serves as a gateway to both natural and spiritual experiences, offering easy access to the serene backwaters of Kumarakom and the misty hills of Vagamon. Its peaceful environment, coupled with economic stability and educational achievements, makes it a vibrant district where tradition meets progress. The region balances spiritual heritage with modern aspirations, welcoming visitors to experience its calm lakes, rich culture, and the warm hospitality of its people."
     ],
     cultureParagraphs: [
-      "Known for its literary heritage, churches, and traditional festivals.",
-      "Kottayam has a significant Christian population, and its churches are famous for their architecture and festivals.",
-      "The district is also known for its contributions to Malayalam literature and education."
+      "The culture of Kottayam is deeply rooted in education, literature, religion, and social reform. As a district that played a central role in Kerala’s literary and political awakening, Kottayam has a rich cultural heritage shaped by printing, publishing, classical arts, and diverse religious traditions. One of the most defining aspects of Kottayam’s cultural history is its pivotal role in Kerala’s printing revolution. The first Malayalam printing press was established here in the early 19th century by Christian missionaries, which paved the way for the development of Malayalam literature and journalism. Prestigious publications like Malayala Manorama and Deepika were born in Kottayam, reinforcing its identity as Kerala’s publishing capital.",
+      "Religiously, Kottayam reflects diversity and peaceful coexistence. It is home to a strong Syrian Christian presence, with historic churches like the Valiyapalli and Cheriapalli that stand out for their ancient architecture and intricate murals. Alongside these, Hindu temples such as the Thirunakkara Mahadeva Temple, known for its grand festivals, and various mosques also contribute to the region’s spiritual and communal harmony. In the sphere of performing arts, Kottayam supports both classical and folk traditions. Cultural centers and educational institutions regularly host performances of Kathakali, Bharatanatyam, and Mohiniyattam. Folk dances like Margamkali and Parichamuttukali are also kept alive, especially within Christian communities.",
+      "Kottayam has long been a hub for social reform, especially in areas of education, women's empowerment, and upliftment of marginalized groups. The district has produced many reformers, writers, and leaders who have played a key role in shaping Kerala’s progressive outlook. Its commitment to intellectual growth is visible in events like the annual flower show, literary festivals, and book fairs, which attract people from across the state. Altogether, Kottayam’s culture is a harmonious blend of academic excellence, religious harmony, artistic expression, and social consciousness, making it one of the most enlightened and inspiring districts of Kerala."
     ],
     places: [
       { name: "Vembanad Lake", image: "images/vembanad.jpg", desc: "Largest lake in Kerala, known for bird watching." },
@@ -119,14 +119,14 @@ const districts = [
     name: "Idukki",
     tagline: "The Spice Garden of Kerala",
     aboutParagraphs: [
-      "Idukki is a mountainous district famous for its wildlife sanctuaries and tea gardens...",
-      "The Idukki Arch Dam and Munnar hill station are iconic landmarks...",
-      "Home to tribal communities and unique hill traditions."
+      "Idukki is a mountainous and forest-rich district located in the Western Ghats of Kerala. Known for its breathtaking landscapes, lush greenery, and cool climate, Idukki is one of the most nature-blessed districts in the state. It is home to Kerala’s highest peak, Anamudi, and encompasses vast stretches of evergreen forests, rivers, waterfalls, and wildlife sanctuaries. With its sparse population and high-range geography, the district is ideal for eco-tourism and plays an important role in nature conservation efforts.",
+      "A standout feature of Idukki is the Idukki Arch Dam, one of the highest arch dams in Asia, built across the Periyar River. This dam and its hydroelectric project are crucial in powering the state and form a key part of Idukki’s identity. The district is also home to famous hill stations like Munnar and Thekkady, which draw thousands of visitors annually for their scenic tea gardens, spice plantations, and wildlife experiences in the Periyar Tiger Reserve. These places have made Idukki a central destination for tourism that combines both natural beauty and sustainable development.",
+      "Agriculture is a major livelihood in Idukki, with extensive cultivation of cardamom, tea, coffee, pepper, and other spices, earning it the title of Kerala’s spice hub. The hilly terrain supports a unique agrarian economy, while tribal communities contribute significantly to the cultural and economic life of the region. With its blend of natural resources, power generation, and agricultural strength, Idukki stands out as Kerala’s green powerhouse — a district where nature, livelihood, and conservation thrive in harmony."
     ],
     cultureParagraphs: [
-      "Home to tribal communities and unique hill traditions.",
-      "Idukki's culture is closely tied to its natural surroundings and agricultural practices.",
-      "The district is known for its spice plantations, especially cardamom and pepper."
+      "The culture of Idukki is uniquely shaped by its geographical isolation, tribal heritage, and agrarian lifestyle. Unlike the coastal and midland regions of Kerala, Idukki’s culture is more rural and closely tied to the hills and forests. The district is home to several indigenous tribal communities, including the Muthuvans, Mannans, Malayarayans, and Ooralis, who have preserved their languages, customs, and traditional ways of life for generations. Their deep connection with the natural world is reflected in their daily life, beliefs, and sustainable practices.",
+      "Festivals in Idukki reflect a blend of tribal customs and mainstream religious traditions. Tribal communities celebrate nature-based festivals with rituals involving music, dance, and offerings to forest spirits and ancestors, while Hindu and Christian festivals like Onam, Vishu, and Christmas are widely celebrated with a local touch. The region is rich in oral traditions, folk songs, and tribal dances. The Muthuvan community is known for their vibrant attire and ceremonial group dances. Handcrafted items made from bamboo, cane, and forest wood showcase the region’s skilled craftsmanship and eco-friendly way of life.",
+      "Idukki’s rugged terrain and relative isolation have helped preserve its authentic culture, largely untouched by rapid urbanization. However, with the rise of tourism in areas like Munnar, Vagamon, and Thekkady, the district is slowly embracing modern influences. Cultural programs are being curated for visitors, and there is growing awareness about ecological preservation and heritage protection. Idukki today stands as a mosaic of tribal diversity, agricultural tradition, and religious harmony, offering a culturally rich and environmentally sensitive identity that sets it apart within Kerala."
     ],
     places: [
       { name: "Munnar", image: "images/munnar.jpg", desc: "Hill station famous for tea plantations." },
@@ -142,14 +142,14 @@ const districts = [
     name: "Ernakulam",
     tagline: "Queen of the Arabian Sea",
     aboutParagraphs: [
-      "Ernakulam is the commercial capital of Kerala, blending modernity with heritage...",
-      "Fort Kochi and Jew Town reflect the district's multicultural history...",
-      "Marine Drive and Cherai Beach are popular spots for locals and tourists."
+      "Ernakulam, often regarded as the commercial capital of Kerala, is a dynamic district that successfully blends urban sophistication with cultural heritage. Located along the central coast of Kerala, it is home to Kochi (Cochin), one of India’s leading port cities and a thriving hub for trade, tourism, and technology. With world-class infrastructure, including an international airport, a modern metro system, and well-developed IT parks, Ernakulam leads the state in economic development and modernization.",
+      "The district’s geography is richly varied, consisting of serene backwaters, scenic islands, flowing rivers, sandy beaches, and a vibrant cityscape. Bordered by the Arabian Sea, its intricate network of waterways once supported flourishing trade with Arab, Chinese, Dutch, Portuguese, and British merchants. This historical interaction gave rise to Kochi’s cosmopolitan culture, where diverse communities have coexisted peacefully for centuries, shaping the region’s unique identity.",
+      "Today, Ernakulam is not just an economic hub but also a major center for education, healthcare, transportation, and media. It hosts InfoPark and SmartCity, forming one of Kerala’s most active startup and IT ecosystems. Tourist attractions like Fort Kochi, Marine Drive, Hill Palace Museum, Cherai Beach, and the Jewish Synagogue draw thousands of visitors, both domestic and international. Ernakulam's seamless blend of colonial charm and urban innovation makes it a living symbol of Kerala’s progressive and multicultural spirit."
     ],
     cultureParagraphs: [
-      "A melting pot of cultures, with historic temples, churches, and synagogues.",
-      "Ernakulam is known for its vibrant arts scene, including Kathakali and Mohiniyattam.",
-      "The district also has a rich tradition of seafood cuisine and boat races."
+      "The culture of Ernakulam is a vibrant blend of tradition and modernity, shaped by its rich colonial past, religious diversity, and cosmopolitan atmosphere. With centuries of trade and settlement by Portuguese, Dutch, Jewish, British, and Arab communities, the district—especially Kochi—developed a cultural identity that is both globally influenced and deeply rooted in Kerala’s heritage. This melting pot of faiths includes ancient Hindu temples like the Ernakulam Shiva Temple, historic churches such as St. Francis Church, elegant mosques, and the iconic Jewish Synagogue in Mattancherry. Together, these landmarks represent the peaceful coexistence of communities who celebrate festivals such as Onam, Vishu, Eid, Christmas, Passover, and local temple feasts with shared enthusiasm.",
+      "Ernakulam is a major cultural hub, renowned for its contributions to art and literature. It proudly hosts the Kochi-Muziris Biennale, Asia’s largest contemporary art festival, which attracts global audiences and transforms the city into an open-air art gallery. The district has also nurtured renowned writers, filmmakers, musicians, and performers, while continuing to support classical traditions like Kathakali, Mohiniyattam, and Chenda Melam. Alongside these, modern expressions thrive through theatre, cinema, and experimental fusion music, making Ernakulam a space where heritage and innovation interact constantly.",
+      "In daily life, the people of Ernakulam seamlessly combine cosmopolitan openness with traditional Malayali values. The district is home to a wide-ranging population—tech professionals, traders, artists, and fishermen—who coexist with mutual respect and a shared drive for progress. Its multicultural cuisine reflects this diversity, offering everything from local Kerala dishes to European, Arabic, and Jewish flavors. Ernakulam is also a beacon of progressive values, with high literacy rates, youth-led initiatives, and active platforms for social and environmental advocacy. Whether in the art-filled streets of Fort Kochi or the eco-conscious corners of the city, Ernakulam exemplifies a living culture that continues to grow without forgetting its roots."
     ],
     places: [
       { name: "Fort Kochi", image: "images/ernakulam.jpg", desc: "Historic area with colonial architecture." },
@@ -165,14 +165,14 @@ const districts = [
     name: "Thrissur",
     tagline: "Cultural Capital of Kerala",
     aboutParagraphs: [
-      "Thrissur is famous for its Pooram festival and vibrant cultural scene...",
-      "The district is known for classical arts, literature, and grand festivals...",
-      "Historic temples and Kerala Kalamandalam add to its cultural richness."
+      "Thrissur, often hailed as the “Cultural Capital of Kerala,” is a district steeped in history, spiritual legacy, and cultural pride. Centrally located in the state, it has played a major role in shaping Kerala’s intellectual and religious traditions. Once a part of the ancient Chera Empire, Thrissur has long been a vibrant center of Hindu, Christian, and Islamic heritage. The iconic Thekkinkadu Maidan, which encircles the ancient Vadakkumnathan Temple, stands as a symbol of this legacy. This revered Shiva temple is one of the oldest in India and continues to be a spiritual heartland of the district.",
+      "Thrissur is world-famous for the Thrissur Pooram, a grand temple festival that transforms the city into a cultural spectacle. Celebrated annually at the Vadakkumnathan Temple grounds, it features a majestic parade of caparisoned elephants, traditional percussion ensembles, vibrant umbrellas, and dazzling fireworks. The Pooram exemplifies Thrissur’s deep connection to ritual, performance, and collective celebration. Beyond festivals, the district is home to Kerala Kalamandalam, the leading institution for training in classical performing arts like Kathakali and Mohiniyattam, preserving and promoting Kerala’s artistic legacy for future generations.",
+      "While rooted in tradition, Thrissur is also a thriving modern center for education, commerce, and healthcare. It hosts prominent institutions such as Sree Kerala Varma College, Government Engineering College, and Amala Medical College. The district is also known for its Ayurvedic centers and its strong banking and financial presence. As the undisputed hub of Kerala’s gold trade, it attracts thousands of shoppers to its dense cluster of jewelry showrooms. With lush rivers, fertile lands, and cultural landmarks woven into its everyday life, Thrissur beautifully balances heritage and modern livelihood."
     ],
     cultureParagraphs: [
-      "Known for classical arts, literature, and grand festivals.",
-      "Thrissur is often referred to as the 'Cultural Capital of Kerala' for its rich heritage.",
-      "The district hosts the famous Thrissur Pooram, a spectacular temple festival."
+      "The culture of Thrissur is deeply interwoven with spirituality, vibrant festivals, and community participation. At its heart lies the world-renowned Thrissur Pooram, held annually at the Vadakkumnathan Temple. This grand spectacle features over 50 decorated elephants, rhythmic percussion ensembles like Panchavadyam and Chenda Melam, colorful parasols, and stunning fireworks. More than a religious event, Thrissur Pooram is a secular, inclusive celebration that brings together people of all faiths, reflecting the district's open and festive spirit.",
+      "Thrissur has earned its title as Kerala’s cultural capital largely through its preservation and promotion of classical arts. Kerala Kalamandalam, located in Cheruthuruthy, is a globally recognized institution that trains students in Kathakali, Mohiniyattam, Koodiyattam, and Ottanthullal—art forms that blend spirituality, storytelling, and performance. The district also houses the Kerala Sahitya Akademi and the Kerala Sangeetha Nataka Akademi, which continue to foster excellence in literature and performing arts, making Thrissur a cradle for both traditional and contemporary creativity.",
+      "Thrissur’s cultural life is enriched by religious harmony and active civic participation. Alongside ancient temples, the district is home to notable Christian and Muslim landmarks such as the Our Lady of Lourdes Cathedral, Puthanpally Church, and the Cheraman Juma Masjid in nearby Kodungallur. These sites reflect centuries of peaceful coexistence and cultural exchange. Thrissur’s people are known for their deep involvement in cultural events, temple committees, and support for local artists, making it a district where tradition and public engagement keep cultural heritage alive and thriving."
     ],
     places: [
       { name: "Vadakkunnathan Temple", image: "images/thrissur.jpg", desc: "Ancient Shiva temple and UNESCO site." },
@@ -188,14 +188,14 @@ const districts = [
     name: "Palakkad",
     tagline: "Gateway of Kerala",
     aboutParagraphs: [
-      "Palakkad is known for its paddy fields, Palakkad Gap, and historic forts...",
-      "Silent Valley National Park is a biodiversity hotspot...",
-      "The district is rich in folk music, dance, and traditional festivals."
+      "Palakkad, often called the “Gateway of Kerala,” is a district defined by its expansive plains, fertile valleys, and the historic Palakkad Gap—a natural mountain pass that connects Kerala with Tamil Nadu. This unique geographical feature has made Palakkad a vital corridor for trade, migration, and cultural exchange for centuries. With vast stretches of paddy fields, rivers, and coconut groves, the district is famously known as the 'granary of Kerala,' and remains one of the state’s most agriculturally productive regions.",
+      "Steeped in history, Palakkad houses the grand Palakkad Fort, built by Hyder Ali in the 18th century, which stands as a prominent reminder of the district’s strategic importance. Nature lovers are drawn to the region’s green hills and protected forests, most notably the Silent Valley National Park—one of India’s most treasured biodiversity hotspots. The park shelters numerous rare and endangered species and represents Palakkad’s commitment to ecological preservation.",
+      "Beyond its rural charm, Palakkad contributes richly to Kerala’s cultural and intellectual landscape. It is home to several esteemed educational institutions and has a strong tradition in classical music, having nurtured many celebrated Carnatic musicians over the decades. The district’s peaceful rhythm of life, rooted in farming, folk traditions, and musical heritage, continues to influence Kerala’s identity in both subtle and significant ways."
     ],
     cultureParagraphs: [
-      "Rich in folk music, dance, and traditional festivals.",
-      "Palakkad has a unique tradition of 'Koodiyattam', a form of Sanskrit theatre.",
-      "The district is also known for its classical music, especially 'Sopanam' and 'Panchavadyam'."
+      "Palakkad’s culture is shaped by a deep blend of Malayali and Tamil influences, owing to its close geographical and historical connection with Tamil Nadu. This cultural fusion is especially visible in local architecture, dialects, cuisine, and religious practices. The Agraharams—rows of traditional Brahmin houses—are iconic to Palakkad and are home to the Tamil Brahmin (Iyer) community, known for their mastery of Carnatic music, Vedic rituals, and Sanskrit scholarship. This environment has given rise to legendary artists like Chembai Vaidyanatha Bhagavathar and mridangam maestro Palakkad Mani Iyer, making the district a cradle of classical music in South India.",
+      "Festivals in Palakkad are a colorful mix of Malayali and Tamil customs. Alongside Kerala’s Onam and Vishu, celebrations like Navaratri and Margazhi Utsavams bring a strong Tamil spiritual tone to the district. Temple festivals often include processions, traditional percussion, and rituals like Vela, Bhagavathi Theyyam, and chariot pulling. The region is equally rich in folk traditions, with rituals like Poothan and Thira, Kalamezhuthu, and Padayani performed in rural temples. Places like Kalpathy Heritage Village and Ottapalam serve as cultural hubs, preserving and promoting these deeply rooted practices.",
+      "Palakkad’s cultural spirit thrives on simplicity, hospitality, and a strong sense of identity. The people remain closely connected to their agricultural roots while embracing education, literature, and performance arts. In recent times, there has been a rise in literary circles, drama troupes, and cultural tourism initiatives that showcase the district’s unique blend of classical and folk traditions. Whether through a morning concert in an Agraharam or a vibrant village festival, Palakkad continues to embody a distinct and graceful cultural presence in Kerala."
     ],
     places: [
       { name: "Palakkad Fort", image: "images/palakkad.jpg", desc: "Well-preserved fort built by Hyder Ali." },
@@ -211,14 +211,14 @@ const districts = [
     name: "Malappuram",
     tagline: "Land of Hills and Valleys",
     aboutParagraphs: [
-      "Malappuram is noted for its rolling hills, rivers, and cultural diversity...",
-      "The district is famous for Mappila arts, literature, and religious harmony...",
-      "Kottakkunnu and Nilambur Teak Museum are popular attractions."
+      "Malappuram, which means “land atop the hills,” is a picturesque district in northern Kerala, blessed with rolling hills, fertile valleys, and scenic rivers. Nestled between the Western Ghats and the Arabian Sea, its diverse terrain supports both agriculture and natural biodiversity. This unique location not only contributes to the district’s natural charm but also influences its cultural and economic life, blending hill landscapes with coastal traditions.",
+      "Steeped in history, Malappuram played a key role in Kerala’s political movements. It was once an important center under the Zamorin Kingdom of Kozhikode and later became notable for its role in the Mappila uprisings and the Khilafat Movement during colonial rule. These events have left a lasting legacy visible in local forts, mosques, and memorials, making Malappuram a historically significant district in Kerala’s freedom struggle and communal history.",
+      "In recent years, Malappuram has emerged as one of Kerala’s fastest-growing districts, known for its achievements in education, sports, and healthcare. It houses renowned institutions like the University of Calicut and the AMU Malappuram Centre, and boasts a passionate football culture. Despite rapid urbanization, the district maintains its rural warmth, cultural vibrancy, and a strong sense of communal harmony, representing a perfect blend of tradition and progress."
     ],
     cultureParagraphs: [
-      "Famous for Mappila arts, literature, and religious harmony.",
-      "Malappuram has a rich tradition of 'Mappila Songs' and 'Kolkkali' dance.",
-      "The district is also known for its historic mosques and temples."
+      "Malappuram’s cultural identity is strongly shaped by its vibrant Muslim heritage, most notably the Mappila culture—a unique fusion of Arab and Malayali traditions. One of its most cherished contributions is Mappila Paattu, poetic folk songs written in Arabi-Malayalam, expressing themes of love, devotion, and social resistance. Another striking element is Oppana, a graceful dance form performed by Muslim women during weddings, along with rhythmic art forms like Duff Muttu and Kolkkali, which add liveliness to community events and festive occasions.",
+      "Despite its dominant Muslim population, Malappuram exemplifies religious harmony through its celebration of Hindu and Christian traditions as well. Hindu temples host vibrant festivals like Poorams, Thiruvathira, and Vishu, drawing large crowds and community participation. Temples such as the Thirunavaya Navamukunda Temple and Triprangode Temple serve as important spiritual centers. This inclusive spirit has helped shape a district where faiths co-exist peacefully, enriching the region's collective cultural fabric.",
+      "The district also has a strong legacy in martial arts, especially Kalaripayattu, and is famously known as the football capital of Kerala, where local matches draw massive, passionate crowds. Malappuram is also home to a thriving literary scene, with renowned authors and poets contributing to Malayalam literature. From traditional art forms to sporting excellence and intellectual pursuits, Malappuram is a district where cultural pride, community engagement, and modern expression flourish side by side."
     ],
     places: [
       { name: "Kottakkunnu", image: "images/malappuram.jpg", desc: "Hill garden with panoramic views." },
@@ -234,14 +234,14 @@ const districts = [
     name: "Kozhikode",
     tagline: "City of Spices",
     aboutParagraphs: [
-      "Kozhikode is a historic port city known for its spice trade and beaches...",
-      "The city is renowned for its cuisine, music, and festivals...",
-      "Kappad Beach and Mananchira Square are must-visit places."
+      "Kozhikode, formerly known as Calicut, is a historically significant coastal city in northern Kerala that once served as the capital of the powerful Zamorin dynasty. A major center for spice trade, especially black pepper, Kozhikode was renowned for its bustling port that welcomed traders from Arabia, China, and Europe. The district gained global prominence when Vasco da Gama landed here in 1498, marking the beginning of European maritime exploration in India and altering global trade routes forever.",
+      "The city’s commercial legacy continues today with vibrant spice markets, traditional handloom industries, and wood carving crafts. Kozhikode has grown into a modern hub for education, healthcare, and technology, with premier institutions like IIM Kozhikode, NIT Calicut, and Calicut University contributing to its reputation. At the same time, it is known for its thriving urban culture, marked by active literary circles, tech parks, and progressive civic infrastructure",
+      "Kozhikode is just as famous for its rich Malabar cuisine as it is for its trade history. Signature dishes like biriyani, banana chips, and the iconic Kozhikode Halwa make the district a food lover’s paradise. Beyond its urban buzz, Kozhikode is blessed with serene beaches, rolling hills, and proximity to the Wayanad Ghats—offering a perfect blend of nature, tradition, and contemporary living."
     ],
     cultureParagraphs: [
-      "Renowned for its cuisine, music, and festivals.",
-      "Kozhikode is famous for 'Kozhikode Biriyani', a culinary delight.",
-      "The city also has a vibrant tradition of arts, including 'Mappila Songs' and 'Theyyaam'."
+      "Kozhikode has long been a cradle of literature and music, producing iconic writers like S.K. Pottekkatt and Vaikom Muhammad Basheer, who enriched Malayalam storytelling with depth and local flavor. The city also holds a unique place in music history thanks to M.S. Baburaj, who introduced Ghazal-style Hindustani melodies into Malayalam, creating a lasting musical tradition. Cultural spaces like Mathrubhumi, public libraries, and academies continue to fuel the city’s creative and intellectual pursuits.",
+      "The cultural identity of Kozhikode reflects a vibrant fusion of Hindu, Muslim, and Christian traditions. Folk arts like Oppana, Duff Muttu, and Mappila Paattu showcase the rich heritage of the Malabar Muslim community. Simultaneously, temple festivals such as those at the Tali Shiva Temple, and dramatic performances like Thirayattam, contribute to the spiritual and festive life of the region. Kozhikode is a model of communal harmony, where different faiths and traditions thrive together.",
+      "Kozhikode’s cuisine is legendary across Kerala. Signature dishes like Malabar Biryani, Kozhi Nirachathu, Kalummakkaya preparations, and sweets from Sweet Meat Street (Mittai Theruvu) have become cultural emblems. The Kozhikodan dialect itself is loved for its humor and charm, reflecting the people’s famed hospitality, secular spirit, and conversational culture. Whether it’s food, stories, or music, Kozhikode offers an experience that is both deeply rooted and warmly welcoming."
     ],
     places: [
       { name: "Kappad Beach", image: "images/kozhikode.jpg", desc: "Historic beach where Vasco da Gama landed." },
@@ -257,14 +257,14 @@ const districts = [
     name: "Wayanad",
     tagline: "Green Paradise",
     aboutParagraphs: [
-      "Wayanad is a hill district with forests, wildlife, and tribal heritage...",
-      "The district is home to indigenous tribes and unique folk traditions...",
-      "Edakkal Caves and Banasura Sagar Dam are major attractions."
+      "Wayanad, perched in the Western Ghats, is famed for its lush forests, misty hills, waterfalls, and biodiversity. As the only Kerala district sharing borders with Karnataka and Tamil Nadu, it occupies a unique ecological and strategic position. The district houses treasures like Wayanad Wildlife Sanctuary, part of the Nilgiri Biosphere Reserve, making it a hub for eco-tourism, trekking, and wildlife conservation.",
+      "Though officially formed in 1980, Wayanad's roots go deep into prehistory. Edakkal Caves, with Neolithic carvings, offer rare glimpses into early human settlements. The region is also home to ancient Jain temples and sites that reflect centuries of cultural exchange. These historic landmarks add layers of meaning to Wayanad’s naturally rich terrain, merging the past with the present.",
+      "Agriculture drives Wayanad’s economy, with cultivation of pepper, coffee, cardamom, tea, and other spices being predominant. The district also sustains a significant tribal population, whose customs, crafts, and sustainable lifestyles contribute to the region’s cultural identity. Their deep connection with the forest, along with ongoing efforts in tribal welfare and environmental preservation, makes Wayanad a model for harmonious coexistence between humans and nature."
     ],
     cultureParagraphs: [
-      "Home to indigenous tribes and unique folk traditions.",
-      "Wayanad has a rich tradition of tribal arts, dance, and music.",
-      "The district is also known for its spice plantations and eco-tourism initiatives."
+      "Wayanad’s cultural identity is deeply shaped by its indigenous tribes such as the Paniyas, Adiyas, Kurichiyas, and Kattunaikkans. Their unique customs, oral traditions, folk dances like Gadhika, and rituals such as Vattakkali and Kalamezhuthu reflect a lifestyle in harmony with nature. These traditions are preserved through community efforts and cultural centers, offering a living testament to ancestral wisdom.",
+      "While tribal beliefs remain strong, Wayanad also embraces Hindu, Muslim, and Christian communities. This spiritual diversity is celebrated through festivals like Onam, Eid, Vishu, and Christmas, and is visible in religious landmarks such as Thirunelly Temple, Pallikkunnu Church, and local mosques. The peaceful coexistence of faiths adds to Wayanad’s inclusive and harmonious social fabric.",
+      "Wayanad's culture is closely linked to eco-conscious living. The cuisine features local ingredients like ragi, bamboo rice, and jackfruit, offering simple yet nutritious meals. Traditional livelihoods such as bamboo craft, pottery, and organic farming not only sustain the community but also promote environmental responsibility. Cooperatives and grassroots initiatives help preserve this balance between culture and sustainability."
     ],
     places: [
       { name: "Edakkal Caves", image: "images/wayanad.jpg", desc: "Caves with ancient petroglyphs." },
@@ -280,14 +280,14 @@ const districts = [
     name: "Kannur",
     tagline: "Land of Looms and Lores",
     aboutParagraphs: [
-      "Kannur is famous for its handloom industry, beaches, and Theyyam rituals...",
-      "The district is known for Theyyam, folk arts, and colonial history...",
-      "St. Angelo Fort and Muzhappilangad Drive-in Beach are highlights."
+      "Kannur is famed for Theyyam, one of Kerala’s most powerful ritual art forms. Performed in sacred groves and village shrines, Theyyam combines dance, music, and spiritual possession, with performers often believed to embody deities. With vivid makeup, towering headgear, and intense drumming, Theyyam rituals are central to the region’s cultural and religious life, especially among communities that traditionally lacked access to temple worship.",
+      "Known as the “Land of Looms,” Kannur has a thriving handloom industry, renowned for its quality cotton fabrics. Artisans here continue to use traditional weaving techniques passed down for generations. The region also preserves Kolathunadu's legacy through architectural remnants, temple murals, and folk customs that showcase the district’s historic and artistic depth.",
+      "Culturally diverse, Kannur is home to Hindus, Muslims, and Christians who celebrate festivals like Theyyam season, Ramadan, Onam, and Christmas with mutual respect. The district has also played a pivotal role in Kerala’s political and social reform movements, fostering a population that is highly politically aware and socially active, with strong roots in both leftist ideology and grassroots organization."
     ],
     cultureParagraphs: [
-      "Known for Theyyam, folk arts, and colonial history.",
-      "Kannur has a vibrant tradition of handloom weaving, producing fine textiles.",
-      "The district is also famous for its historic forts and cultural festivals."
+      "The culture of Kannur is a vivid blend of ritualistic art forms, deep-rooted spirituality, coastal traditions, and a fierce legacy of resistance. At the heart of its identity lies Theyyam, an awe-inspiring ritual dance where performers, believed to become divine beings, enact ancestral myths through vibrant movements, elaborate face art, towering headgear, and spiritual chants. These performances, held in sacred groves and village shrines between October and May, are not just artistic displays but deeply sacred events that preserve oral history and spiritual continuity in the region.",
+      "Kannur is also renowned for its contributions to traditional craftsmanship and martial heritage. The district's legendary handloom weaving villages, such as Chirakkal and Madayipara, continue to produce high-quality cotton fabrics celebrated around the world. Alongside, the martial art Kalaripayattu and temple arts like mural painting and percussion music sustain Kannur’s place as a guardian of Kerala’s classical traditions. The district’s temples, mosques, and churches together shape a cultural fabric defined by religious harmony—reflected in celebrations of Onam, Eid, Vishu, and Christmas with equal fervor.",
+      "What sets Kannur apart is its spirit of intellectual freedom and social activism. It has long been a crucible for Kerala’s political awakening, especially in the context of leftist ideologies and workers’ rights. The region has produced a lineage of poets, playwrights, freedom fighters, and public thinkers whose contributions continue to influence Kerala’s social and cultural evolution. Bold, expressive, and fiercely rooted in heritage, Kannur’s culture reflects a legacy where the sacred and the revolutionary walk hand in hand."
     ],
     places: [
       { name: "St. Angelo Fort", image: "images/kannur.jpg", desc: "Historic fort overlooking the Arabian Sea." },
@@ -303,14 +303,14 @@ const districts = [
     name: "Kasaragod",
     tagline: "Land of Gods and Forts",
     aboutParagraphs: [
-      "Kasaragod is known for its forts, beaches, and linguistic diversity...",
-      "The district is rich in temple festivals, Yakshagana, and multicultural traditions...",
-      "Bekal Fort and Ranipuram are popular tourist destinations."
+      "Kasargod, the northernmost district of Kerala, is a land where languages, cultures, and landscapes blend into a unique identity. Bordered by Karnataka to the north and east and the Arabian Sea to the west, Kasargod serves as a gateway to Kerala, showcasing the influence of both Kerala and South Canara traditions. Famed for its historic forts, lush hills, serene beaches, and backwaters, Kasargod holds a strategic place in Kerala’s history and geography. The iconic Bekal Fort, one of the largest and best-preserved forts in Kerala, stands as a proud reminder of the region’s military and maritime significance.",
+      "Agriculture is the backbone of Kasargod’s economy, with key crops including coconut, areca nut, paddy, and rubber. Fishing and handloom weaving are also important to the livelihoods of many. The district is steadily growing as a tourism destination, known for attractions like Ranipuram Hills, Valiyaparamba backwaters, Chandragiri fort, and Ananthapura Lake Temple.",
+      "Kasargod is also notable for its multilingual population—Malayalam, Tulu, Kannada, Konkani, and Urdu are widely spoken, reflecting its position as a cultural bridge between Kerala and Karnataka."
     ],
     cultureParagraphs: [
-      "Rich in temple festivals, Yakshagana, and multicultural traditions.",
-      "Kasaragod has a unique tradition of Yakshagana, a form of dance-drama.",
-      "The district is also known for its historic forts and diverse religious practices."
+      "Kasargod's culture is a harmonious fusion of languages, faiths, and folk traditions, shaped by centuries of interaction between Malayali, Tuluva, and Konkan communities. This multilingualism has given rise to a cosmopolitan identity, where diversity is not just accepted but celebrated.One of the most vibrant expressions of Kasargod’s cultural life is Theyyam, the ritual art form that dominates northern Kerala, especially in temple festivals. In Kasargod, Theyyam takes on regional variations and is performed in numerous Kavus (sacred groves) and shrines, particularly during the Thulam and Makaram months. Kasargod is also home to Yakshagana, a classical dance-drama form that originated in Karnataka but flourishes in this region due to cultural proximity. Duff Muttu, Kolkali, and Oppana reflect the Islamic folk traditions, while Bhajans, temple dances, and processions signify the Hindu contributions.",
+      "The Ananthapura Lake Temple, believed to be the original seat of Lord Anantha Padmanabha of Thiruvananthapuram, is an important spiritual site. Mosques like Malik Dinar Mosque in Thalangara, and historic churches in Kumbla and nearby areas, signify the deep religious pluralism of the region.",
+      "Kasargod’s cuisine is also a cultural amalgam—featuring influences from Malabar, coastal Karnataka, and Tulu Nadu. Dishes like pathrode, neer dosa, and seafood curries coexist with Malabar biryani and spicy Muslim delicacies. The district is also deeply committed to traditional crafts, including coir work, handloom weaving, wood carving, and bell metal work. Festivals are celebrated with cross-cultural participation, making Kasargod a living example of communal harmony and shared heritage."
     ],
     places: [
       { name: "Bekal Fort", image: "images/kasargod.jpg", desc: "Largest fort in Kerala with sea views." },
