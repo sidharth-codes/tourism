@@ -349,10 +349,14 @@ const districts = [
     district.places.forEach(place => {
       const card = document.createElement('div');
       card.className = 'place-card';
+      // Create Google Maps search URL for the place
+      const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ', ' + district.name + ', Kerala')}`;
       card.innerHTML = `
-        <img src="${place.image}" alt="${place.name}">
-        <h3>${place.name}</h3>
-        <p>${place.desc}</p>
+        <a href="${mapsUrl}" target="_blank" style="text-decoration:none;color:inherit;">
+          <img src="${place.image}" alt="${place.name}">
+          <h3>${place.name}</h3>
+          <p>${place.desc}</p>
+        </a>
       `;
       placeList.appendChild(card);
     });
